@@ -1,8 +1,12 @@
+import aeLogo from "../assets/aename-white.png";
+
 const Header = () => {
   return (
-    <header className="mt-4 w-2/3 rounded-2xl mx-auto py-6 bg-ash-blue">
-      <ul className="flex justify-center gap-14">
-        <li></li>
+    <header className="mt-4 w-2/3 rounded-2xl mx-auto py-4 bg-ash-blue">
+      <ul className="flex justify-evenly items-center">
+        <li>
+          <img src={aeLogo} alt="AE Logo" className="h-6" />
+        </li>
         <li>About</li>
         <li>Projects</li>
         <li>Extras</li>
