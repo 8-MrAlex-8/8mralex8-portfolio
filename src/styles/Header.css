@@ -1,0 +1,21 @@
+nav {
+    /* From https://css.glass */
+    background: rgba(49, 51, 76, 0.70);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(14.8px);
+    -webkit-backdrop-filter: blur(14.8px);
+    border: 1px solid rgba(49, 51, 76, 0.3);
+    padding: 0.25rem;
+
+}
+
+nav li:hover {
+    /* From https://css.glass */
+    background: rgba(95, 97, 121, 0.73);
+    border-radius: 4px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(15.4px);
+    -webkit-backdrop-filter: blur(15.4px);
+    border: 1px solid rgba(95, 97, 121, 0.3);
+}
