@@ -11,25 +11,25 @@ function App() {
   return (
     <div className="min-h-dvh w-100dvw flex flex-col">
       <main className="flex-1 scroll-smooth">
-        <section id="hero" className="h-[100dvh]">
+        <section id="hero">
           <Hero />
         </section>
-        <section id="about" className="h-[100dvh]">
+        <section id="about">
           <About />
         </section>
-        <section id="projects" className="h-[100dvh]">
+        <section id="projects">
           <Projects />
         </section>
-        <section id="skills" className="h-[100dvh]">
+        <section id="skills">
           <Skills />
         </section>
-        <section id="resume" className="h-[100dvh]">
+        <section id="resume">
           <Resume />
         </section>
-        <section id="extras" className="h-[100dvh]">
+        <section id="extras">
           <Extras />
         </section>
-        <section id="contact" className="h-[100dvh]">
+        <section id="contact">
           <Contact />
         </section>
       </main>
