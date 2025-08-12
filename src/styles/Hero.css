@@ -1,16 +1,7 @@
-body {
+.bubbles {
     background-image: url('../assets/page1-bg.svg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 
-* {
-    font-family: "DM Serif Display", serif;
-    font-style: normal;
-}
-
-a, .lato {
-    font-family: "Lato", sans-serif !important;
-    font-style: normal;
-}
