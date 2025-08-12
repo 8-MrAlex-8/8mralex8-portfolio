@@ -20,7 +20,7 @@ body {
     background-color: #22223a;
 }
 
-ul * {
+ul *, .lato {
     font-family: "Lato", sans-serif;
     font-style: normal;
 }

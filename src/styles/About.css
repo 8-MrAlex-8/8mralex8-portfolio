@@ -1,0 +1,11 @@
+.about {
+    background-image: url('../assets/page1-bg.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+img.person {
+    padding: 0.75rem;
+    border: 2px solid oklch(70.899% 0.19591 306.721 / 0.685);
+}

@@ -5,3 +5,10 @@
     background-size: cover;
 }
 
+button#section-down:hover .chevron-down {
+    background-color: white;
+    padding:0.05rem;
+    border-radius:50%;
+    cursor: pointer;
+    stroke: black;
+}
